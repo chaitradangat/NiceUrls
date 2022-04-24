@@ -86,4 +86,10 @@ https://www.stylist.co.uk/relationships/people-annoying-psychology-science/64055
 Free Cloud compute (for learning)
 https://www.qwiklabs.com/
 
+Microsoft AI code intellisense
+https://docs.microsoft.com/en-us/visualstudio/intellicode/custom-models#autotraining-models-for-your-codebase
+
+AWS training
+https://aws.amazon.com/training/
+
 
