@@ -93,3 +93,5 @@ AWS training
 https://aws.amazon.com/training/
 https://explore.skillbuilder.aws/learn
 https://aws.amazon.com/certification/certification-prep/
+https://aws.amazon.com/certification/certified-developer-associate/?c=sec&sec=resources
+https://aws.amazon.com/certification/certified-solutions-architect-associate/?c=sec&sec=resources
