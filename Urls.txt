@@ -92,4 +92,4 @@ https://docs.microsoft.com/en-us/visualstudio/intellicode/custom-models#autotrai
 AWS training
 https://aws.amazon.com/training/
 https://explore.skillbuilder.aws/learn
-
+https://aws.amazon.com/certification/certification-prep/
