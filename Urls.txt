@@ -102,3 +102,7 @@ https://aws.amazon.com/certification/certified-solutions-architect-associate/?c=
 
 AWS Tutorials
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
+
+Testing Frameworks
+https://specflow.org/
+
