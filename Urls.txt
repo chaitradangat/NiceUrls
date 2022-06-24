@@ -106,3 +106,6 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
 Testing Frameworks
 https://specflow.org/
 
+Parsers
+https://anglesharp.github.io/
+
