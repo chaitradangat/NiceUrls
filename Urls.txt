@@ -109,3 +109,5 @@ https://specflow.org/
 Parsers
 https://anglesharp.github.io/
 
+Free Ebooks
+https://www.packtpub.com/free-learning
