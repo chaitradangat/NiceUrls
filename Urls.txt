@@ -115,3 +115,11 @@ https://www.packtpub.com/free-learning
 Containers
 https://analyticsindiamag.com/do-you-really-need-to-learn-kubernetes/
 
+Containers Best Practices
+https://enterprisersproject.com/article/2017/9/microservices-and-containers-6-things-know-start-time
+https://enterprisersproject.com/article/2017/8/4-container-adoption-patterns-what-you-need-know
+https://www.redhat.com/en/resources/layered-approach-container-kubernetes-security-whitepaper
+
+
+
+
