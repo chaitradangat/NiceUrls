@@ -127,7 +127,8 @@ https://ui-patterns.com/
 DotNet Tools
 https://www.postsharp.net/
 
-
+System Design
+https://medium.com/pinterest-engineering
 
 
 
