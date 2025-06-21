@@ -129,6 +129,6 @@ https://www.postsharp.net/
 
 System Design
 https://medium.com/pinterest-engineering
-
+https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff
 
 
