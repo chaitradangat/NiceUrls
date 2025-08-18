@@ -114,6 +114,7 @@ https://www.packtpub.com/free-learning
 
 Containers
 https://analyticsindiamag.com/do-you-really-need-to-learn-kubernetes/
+https://k8slens.dev/
 
 Containers Best Practices
 https://enterprisersproject.com/article/2017/9/microservices-and-containers-6-things-know-start-time
